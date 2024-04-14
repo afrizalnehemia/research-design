@@ -135,6 +135,7 @@ Submit your completed Chapter 1 in the `exer1` folder. Ensure your document is c
 | 17  | YOVI PRATAMA           |         yovipratama       | <a href="yovipratama"><img src="../../images/answer.png" width="24px" height="24px"></a> |
 | 18  | ABDIRAHMAN OSMAN HASHI |                | <a href="your_github_id"><img src="../../images/answer.png" width="24px" height="24px"></a> |
 | 19  | DR MSO | drshahizan | <a href="drshahizan"><img src="../../images/answer.png" width="24px" height="24px"></a> |
+| 20  | AFRIZAL NEHEMIA TOSCANY           |         afrizalnehemia       | <a href="afrizalnehemia"><img src="../../images/answer.png" width="24px" height="24px"></a> |
 
 
 ## Contribution 🛠️
